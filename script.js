@@ -1,1 +1,2 @@
-alert("hello world")
+const p = document.querySelector('p')
+p.style.backgroundColor = 'red';
